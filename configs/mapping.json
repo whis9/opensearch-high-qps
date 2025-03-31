@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "number_of_shards": 40,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "properties": {
+      "CurrentFunctionalArea": {
+        "type": "long"
+      },
+      "resume": {
+        "type": "text"
+      },
+      "candidateid": {
+        "type": "keyword"
+      },
+      "ExperienceYears": {
+        "type": "float"
+      }
+    }
+  }
+}
