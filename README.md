@@ -122,8 +122,3 @@ Ensure your MySQL config is updated inside the script.
 - High-cardinality text-based search
 
 ---
-
-## License
-
-This project is licensed under the MIT License. Credit to Aarshit Mittal.
-
