@@ -22,7 +22,7 @@ The core value is **distributing load across OpenSearch shards** efficiently to 
 
 ## Real Problem Solved
 
-- You have **50,000 colleges**
+- You have **50,000 institutes**
 - Each has **100–200 aliases**
 - You want to **match 1 million resumes** to these colleges based on `resume text`
 
